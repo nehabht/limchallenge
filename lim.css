@@ -1,0 +1,68 @@
+body{
+  background-image: url('background.jpg');
+  position: static;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.logo{
+  width: 25%;
+}
+header{
+  text-align: center;
+  line-height: 20%;
+  padding-top: 20px;
+}
+
+h2{
+  color: #25FF00
+}
+
+nav{
+  background-color: #25FF00;
+  text-align: center;
+  padding: 10px;
+}
+
+
+.Monopattino{
+  display: inline-block;
+  line-height: 5%;
+  padding-top: 10px
+
+}
+h3{
+  display: inline-block;
+}
+
+.rettangolo1{
+  width: 300px;
+  height: 20px;
+  background: orange;
+  border-radius: 5px;
+}
+
+.rettangolo2{
+  width: 500px;
+  height: 20px;
+  background: #25FF00;
+  border-radius: 5px;
+}
+
+.rettangolo3{
+  width: 100px;
+  height: 20px;
+  background: red;
+  border-radius: 5px;
+}
+
+.quadrato{
+  width: 800px;
+  height: 550px;
+  padding: 50px;
+  background: white;
+  opacity: 0.4;
+  border-radius: 10px;
+  margin: auto
+
+}
